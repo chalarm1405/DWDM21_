@@ -16,9 +16,9 @@ Data warehouse & Data Mining 2021
     
     623021048-3	นางสาวทอฝัน พงษ์พิเดช	 SC-SI
     
-#สารบัญเนื้อหา
+# สารบัญเนื้อหา
 
-#บทที่1
+# บทที่1
 * introduction
      * นิยามของ Data Mining
      * ทำไมจึงต้องมี Data Mining
