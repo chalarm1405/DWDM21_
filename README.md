@@ -27,3 +27,13 @@ Data warehouse & Data Mining 2021
 #บทที่ 2
 * ประกอบไปด้วย 3 ส่วยย่อย
   *  [Basic Python](https://github.com/chalarm1405/DWDM21_/blob/main/DATA101_(chapter2).ipynb) 
+     * Data Structure โครงสร้างของข้อมูล
+     * list slicing 
+     * Condition ( if satatement )
+     * Quize and Home work  
+  *  [Mount G Driv](https://github.com/chalarm1405/DWDM21_/blob/main/Data102_(Chapter2).ipynb) 
+     * คำสั่ง .head() .tail()
+       * Nan = not a Number (ช่องว่าง)  
+       * Box plot
+       * Time Series Plot
+       
