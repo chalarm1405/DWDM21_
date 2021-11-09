@@ -26,4 +26,4 @@ Data warehouse & Data Mining 2021
      * เทคนิคในการทำ Data Mining
 #บทที่ 2
 * ประกอบไปด้วย 3 ส่วยย่อย
-  *  [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/DATA101_(chapter2).ipynb) 
+  *  [Basic Python](https://github.com/chalarm1405/DWDM21_/blob/main/DATA101_(chapter2).ipynb) 
