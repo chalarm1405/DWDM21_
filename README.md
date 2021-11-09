@@ -25,6 +25,5 @@ Data warehouse & Data Mining 2021
      * ขั้นตอนการสกัดสารสนเทศ
      * เทคนิคในการทำ Data Mining
 #บทที่ 2
-* Lecture
-     * สรุปการบ้านคาบ 1 Know your data
-     * 
+* ประกอบไปด้วย 3 ส่วยย่อย
+  *  [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/DATA101_(chapter2).ipynb) 
