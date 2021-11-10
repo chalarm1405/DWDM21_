@@ -64,8 +64,9 @@ Data warehouse & Data Mining 2021
          * Manhattan Distance (L1-norm)¶
        * quiz6
        * การบ้านครั้งที่ 11
+       
 # บทที่ 3
-    * [Data Preprocessing](https://github.com/chalarm1405/DWDM21_/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
+    *  [Basic Python](https://github.com/chalarm1405/DWDM21_/blob/main/Data_Preprocessing_(Chapter_3).ipynb)) 
        * Meta Data (Data ที่ใช้อธิบาย Data)
          * ชี้ข้อมูลในตาราง 
          * ชี้แบบ .iloc[] (มองข้อมูลแบบ matrix)
