@@ -18,7 +18,7 @@ Data warehouse & Data Mining 2021
     
 # สารบัญเนื้อหา
 
-# บทที่1
+# บทที่2
 * introduction
      * นิยามของ Data Mining
      * ทำไมจึงต้องมี Data Mining
