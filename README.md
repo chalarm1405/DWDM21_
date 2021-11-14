@@ -148,7 +148,7 @@ Data warehouse & Data Mining 2021
   
   
 # Project
-   * [Project for group](https://github.com/chalarm1405/DWDM21_/blob/main/Project for Group.ipynb)
+  * [Project for group](https://github.com/chalarm1405/DWDM21_/blob/main/Project for Group.ipynb)
      * การนำเข้าข้อมูล , แหล่งที่มาข้อมูล
      * ดูว่าข้อมูลมี data missing
        * สรุปข้อมูลเป็นรายคอลลัมม์ว่ามี missing
