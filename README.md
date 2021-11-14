@@ -97,6 +97,17 @@ Data warehouse & Data Mining 2021
          * เฉลย
        * การรวมตาราง (ต่อตารางในแนวแกน x) Data Integration
        * การบ้าน + ควิซ
-         
+# บทที่ 4
+
+# บทที่ 5
+   * [Association Rules](https://github.com/chalarm1405/DWDM21_/blob/Chapter_6_Association_Rules.ipynb)
+     * esic Concepts
+       * ลบ records ที่ถูก cancel ออกไป 
+       * K-itemsets
+       * Plot graph of Itemsets
+       * Frequence Itemsets to Association Rule
+     * Efficient Pattern Mining Methods
+       * Apriori
+       * (Quiz7) หา k-itemset ที่มีความน่าสนใจ  
          
          
