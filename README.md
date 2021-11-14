@@ -109,5 +109,28 @@ Data warehouse & Data Mining 2021
      * Efficient Pattern Mining Methods
        * Apriori
        * (Quiz7) หา k-itemset ที่มีความน่าสนใจ  
+# บทที่ 6
+   * [Desition Tree](https://github.com/chalarm1405/DWDM21_/blob/Chapter7_Classification_(Decision_Tree).ipynb)
+     * Load Data
+     * Train Model
+       * import
+       * Define
+       * train
+     * plot tree
+       * Evaluation
+       * Random
+     * Advanced Tree 
+       * Import
+       * Define
+       * train
+       * TEST
+       * Train - Test
+       * Train - Validation
+     * HW
+       * 1.ต้นไม้ที่ใช้เกณฑ์ Entropy มีความสูงไม่เกิน 4 ชั้น
+       * 2. ต้นไม้ที่ใช้เกณฑ์ Gini มีใบไม่เกิน 25 ใบ
+       * 3. ต้นไม้ที่ใช้เกณฑ์ Entropy และใช้การ split แบบ random
+       * 4.ต้นไม้ที่ใช้เกณฑ์ entropy มีใบไม่เกิน 40 ใบ
+             
          
          
