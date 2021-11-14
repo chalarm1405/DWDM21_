@@ -131,6 +131,21 @@ Data warehouse & Data Mining 2021
        * 2.ต้นไม้ที่ใช้เกณฑ์ Gini มีใบไม่เกิน 25 ใบ
        * 3.ต้นไม้ที่ใช้เกณฑ์ Entropy และใช้การ split แบบ random
        * 4.ต้นไม้ที่ใช้เกณฑ์ entropy มีใบไม่เกิน 40 ใบ
+   * [KNN](https://github.com/chalarm1405/DWDM21_/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+     * Load data
+     * Split Data
+     * Train Model
+       * Import
+       * knn1 , knn2 , knn3
+       * Retrain & Evaluate
+       * Neural Network
+   * [Evaluation](https://github.com/chalarm1405/DWDM21_/blob/main/Chap7_Classification_(Evaluation).ipynb)  
+     * Split Data
+     * สร้าง Model ทำนาย
+     * Evaluation
+# บทที่ 7
+  * [Desition Tree](https://github.com/chalarm1405/DWDM21_/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+
              
          
          
