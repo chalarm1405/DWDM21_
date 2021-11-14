@@ -145,7 +145,37 @@ Data warehouse & Data Mining 2021
      * Evaluation
 # บทที่ 7
   * [Desition Tree](https://github.com/chalarm1405/DWDM21_/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
-
+  
+  
+# Project
+   * [Project for group](https://github.com/chalarm1405/DWDM21_/blob/main/Project for Group.ipynb)
+     * การนำเข้าข้อมูล , แหล่งที่มาข้อมูล
+     * ดูว่าข้อมูลมี data missing
+       * สรุปข้อมูลเป็นรายคอลลัมม์ว่ามี missing
+       * Drop missing value
+       * ตรวสจสอบเมื่อลบออกไปแล้วตรวจสอบว่ายังไม่ข้อมูลที่หายไปหรือไม่
+       * Percent of missing data from dropna
+     * รวมตาราง
+       * ตรวจสอบดูการลบข้อมูลที่ซ้ำกัน
+     * Data Mining
+       * สร้างตารางที่ใช้ในการดู challenge
+       * สร้างตารางที่ค่าเฉลี่ยนประชากรมากกว่า 40
+       * แปลงให้ข้อมูลอยู่ในรูปแบบเป็น transaction
+     * apyori
+       * ขั้นตอนติดตั้ง apyori
+       * เป็นการเรียกใช้ฟังก์ชัน apriori
+       * ผลลัพธ์ที่ได้จากการทำ Associantion ซึ่งรายละเอียดจะอยู่ที่ summary
+       * SUMMARY
+       * Plot กราฟ เพื่อดุค่าของข้อมูลผลเฉลี่ยในแต่ละจังหวัด
+     * Classification
+       * ทำการดูว่าประเภทของระบบใดในแต่ละภาคมีการใช้มากสุด
+       * กำหนดค่า X และ Y
+       * Decision Tree
+       * KNN
+       * Neural Network
+       * วาดกราฟต้นไม้
+     * Visulization
+         
              
          
          
