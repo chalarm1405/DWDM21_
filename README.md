@@ -100,7 +100,7 @@ Data warehouse & Data Mining 2021
 # บทที่ 4
 
 # บทที่ 5
-   * [Association Rules](https://github.com/chalarm1405/DWDM21_/blob/Chapter_6_Association_Rules.ipynb)
+   * [Association Rules](https://github.com/chalarm1405/DWDM21_/blob/main/Chapter_6_Association_Rules.ipynb)
      * esic Concepts
        * ลบ records ที่ถูก cancel ออกไป 
        * K-itemsets
@@ -110,7 +110,7 @@ Data warehouse & Data Mining 2021
        * Apriori
        * (Quiz7) หา k-itemset ที่มีความน่าสนใจ  
 # บทที่ 6
-   * [Desition Tree](https://github.com/chalarm1405/DWDM21_/blob/Chapter7_Classification_(Decision_Tree).ipynb)
+   * [Desition Tree](https://github.com/chalarm1405/DWDM21_/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
      * Load Data
      * Train Model
        * import
