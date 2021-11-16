@@ -17,7 +17,13 @@ Data warehouse & Data Mining 2021
     623021048-3	นางสาวทอฝัน พงษ์พิเดช	 SC-SI
     
 # สารบัญเนื้อหา
-
+# บทที่ 1
+  *  [introduction](https://github.com/chalarm1405/DWDM21_/blob/main/HW_1) 
+     * นิยามของ Data Mining
+     * ทำไมจึงต้องมี Data Mining
+     * ประเภทข้อมูลที่ใช้ทำเหมืองข้อมูล
+     * ขั้นตอนการสกัดสารสนเทศ
+ 
 # บทที่2
 * introduction
      * นิยามของ Data Mining
