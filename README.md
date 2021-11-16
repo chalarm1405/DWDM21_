@@ -144,8 +144,12 @@ Data warehouse & Data Mining 2021
      * สร้าง Model ทำนาย
      * Evaluation
 # บทที่ 7
-  * [Desition Tree](https://github.com/chalarm1405/DWDM21_/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
-  
+  * [Clustering](https://github.com/chalarm1405/DWDM21_/blob/main/Chap8_Clustering.ipynb)
+     * K-means
+     * Generate Data
+     * Explore data
+     * Clustering
+     * Example Application
   
 # Project
  * [Project](https://github.com/chalarm1405/DWDM21_/blob/main/Project%20for%20Group.ipynb)
