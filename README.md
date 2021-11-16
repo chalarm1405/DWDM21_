@@ -104,7 +104,7 @@ Data warehouse & Data Mining 2021
        * การรวมตาราง (ต่อตารางในแนวแกน x) Data Integration
        * การบ้าน + ควิซ
 # บทที่ 4
- *  [Data Warehousing and On-line Anaalytical Processing](https://github.com/chalarm1405/DWDM21_/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
+ *  [Data Warehousing and On-line Anaalytical Processing](https://github.com/chalarm1405/DWDM21_/blob/main/Chapter_4.ipynb)
        * Basic Data Warehouse
          * อะไรคือคลังข้อมูล
          * วัตถุประสงค์
