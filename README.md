@@ -197,7 +197,7 @@ Data warehouse & Data Mining 2021
        * วาดกราฟต้นไม้
      * Visulization
 # SLIDE PRESENT FOR GROUP
- * [SLIDE](https://github.com/chalarm1405/DWDM21_/blob/main/SLIDE PROJECT FOR GROUP.ipynb)
+ * [SLIDE](https://github.com/chalarm1405/DWDM21_/blob/main/SLIDE%20PROJECT%20FOR%20GROUP.ipynb)
              
          
          
