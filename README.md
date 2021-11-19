@@ -25,12 +25,6 @@ Data warehouse & Data Mining 2021
      * ขั้นตอนการสกัดสารสนเทศ
  
 # บทที่2
-* introduction
-     * นิยามของ Data Mining
-     * ทำไมจึงต้องมี Data Mining
-     * ขั้นตอนการสกัดสารสนเทศ
-     * เทคนิคในการทำ Data Mining
-#บทที่ 2
 * ประกอบไปด้วย 3 ส่วยย่อย
   *  [Basic Python](https://github.com/chalarm1405/DWDM21_/blob/main/DATA101_(chapter2).ipynb) 
      * Data Structure โครงสร้างของข้อมูล
